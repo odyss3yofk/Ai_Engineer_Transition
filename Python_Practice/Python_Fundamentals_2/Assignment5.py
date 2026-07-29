@@ -16,4 +16,4 @@ def digits_sum(num):
     return sum
 
 
-print(digits_sum(121))
+print(digits_sum(125))
